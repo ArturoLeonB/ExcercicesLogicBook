@@ -1,4 +1,4 @@
-# Leer un número entero y mostrar todos los pares comprendidos entre 1 y el número leído.
+ # Read an integer number and show all pair between.
 def pair_list(num):
     Aux = 2
     if num > 0:

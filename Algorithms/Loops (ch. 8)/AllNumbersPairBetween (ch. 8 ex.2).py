@@ -1,4 +1,4 @@
-# Leer un número entero y mostrar todos los divisores exactos del número comprendidos entre 1 y el número leído.
+# Read a int number and show all pair numbers between.
 
 def AllExactDivisors(num):
     if num < 0:

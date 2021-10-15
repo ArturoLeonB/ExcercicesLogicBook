@@ -1,4 +1,5 @@
-#4. Leer dos números y mostrar todos los enteros comprendidos entre ellos.
+#4. Reed two numbers and show all int between.
+
 def AllIntBetween(num1, num2):
     if num1 > num2:
         for i in range (num2, num1):
